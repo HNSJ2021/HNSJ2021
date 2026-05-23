@@ -1,93 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:0f0f0f,100:00f5ff&text=HANSaja%20PERERA&fontColor=00f5ff&fontSize=50&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:0f0f0f,100:00f5ff&text=HANSaja%20PERERA&fontColor=00f5ff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=AI%20ENGINEER%20%7C%20ML%20ARCHITECT%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Architect;Full+Stack+Developer;Building+Intelligent+Systems;React+Native+%7C+FastAPI+%7C+TensorFlow"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=1000&lines=INITIALIZING+AI+ENGINEER+PROFILE...;MACHINE+LEARNING+SYSTEMS+LOADED;FULL+STACK+ARCHITECTURE+ACTIVE;REACT+NATIVE+%7C+FASTAPI+%7C+TENSORFLOW;BUILDING+INTELLIGENT+SYSTEMS;WELCOME+TO+MY+DIGITAL+UNIVERSE"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=SYSTEM+VISITS&color=00f5ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=SYSTEM+ACCESS+COUNT&color=00f5ff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🧠 SYSTEM PROFILE
+# 🧠 SYSTEM PROFILE: ABOUT ME
 
 ```bash
-> USER: Hansaja Perera
-> ROLE: AI ENGINEER
-> STATUS: ACTIVE
-> MODE: BUILDING INTELLIGENT SYSTEMS
-> LOCATION: SRI LANKA
+> booting profile...
+
+✔ Identity: Hansaja Perera
+✔ Role: AI Engineer / ML Developer / Full Stack Architect
+✔ Location: Sri Lanka
+✔ System Status: ACTIVE
+✔ Focus: Intelligent Systems & Scalable AI Applications
 ```
+
+I am a **Computer Science Engineer** focused on building:
+- AI-powered real-world systems 🤖  
+- Scalable full-stack applications 💻  
+- Machine learning solutions for automation 🧠  
+- Intelligent recommendation engines ⚡  
 
 ---
 
 # ⚡ CORE SYSTEM MODULES
 
-```yaml
-AI_ENGINE:
-  - Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - NLP Systems
+```python
+class AI_ENGINEER:
 
-DEVELOPMENT_STACK:
-  - React / React Native
-  - FastAPI / Node.js
-  - Flask / Laravel
+    def __init__(self):
+        self.name = "Hansaja Perera"
+        self.system = "Neural Network Based Thinker"
+        self.mode = "BUILD | LEARN | INNOVATE"
 
-DATA_SYSTEMS:
-  - MongoDB
-  - MySQL
-  - Firebase
+        self.skills = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Full Stack Development",
+            "Cloud Systems",
+            "Computer Vision"
+        ]
 
-TOOLS:
-  - Docker
-  - GitHub Actions
-  - Postman
+    def activate(self):
+        return "Building the future with AI 🚀"
 ```
 
 ---
 
-# 🚀 ACTIVE PROJECTS
+# ⚙️ TECH STACK MATRIX
 
-### 🧠 AI Event Intelligence System
-> Smart event planning engine with recommendation AI  
-Tech: React Native • FastAPI • XGBoost • LightGBM
-
----
-
-### 🩺 Medical AI Diagnostic System
-> Predictive healthcare intelligence apps  
-Tech: Streamlit • Scikit-learn • TensorFlow
-
----
-
-### 🌿 Vision AI Plant System
-> Real-time plant disease detection using CNN  
-Tech: TensorFlow • Flask • OpenCV
+```
+LANGUAGES    → Python | JavaScript | C# | PHP
+FRONTEND     → React | React Native | HTML | CSS
+BACKEND      → FastAPI | Node.js | Express | Laravel
+AI / ML      → TensorFlow | Scikit-learn | XGBoost
+DATABASE     → MongoDB | MySQL | Firebase
+TOOLS        → Docker | Git | Postman | VS Code
+```
 
 ---
 
-### 🛒 Full Stack Commerce Engine
-> Scalable MERN e-commerce platform  
-Tech: React • Node.js • Express • MongoDB
+# 🚀 AI POWERED PROJECTS
+
+### 🧠 AI Event Management System (FLAGSHIP PROJECT)
+```text
+AI-based event planning engine
+- Vendor recommendation system
+- Price prediction (XGBoost / LightGBM)
+- Smart chatbot assistant
+- Foreign user optimization
+```
 
 ---
 
-# 📊 SYSTEM STATUS
+### 🩺 Medical AI Systems
+```text
+Breast Cancer Prediction
+- Logistic Regression ML model
+- 30-feature diagnostic system
+- Real-time prediction UI
+
+CKD Prediction System
+- Gradient Boosting Classifier
+- Medical data preprocessing + SMOTE
+```
+
+---
+
+### 🌿 Computer Vision AI
+```text
+Plant Disease Detection System
+- CNN deep learning model
+- Real-time image classification
+- Flask deployment system
+```
+
+---
+
+### 🛒 Full Stack Systems
+```text
+E-commerce Platform
+- MERN Stack
+- Authentication system
+- Real-time product database
+```
+
+---
+
+# 📊 GITHUB NEURAL ACTIVITY
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=HNSJ2021&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNSJ2021&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/>
+</p>
+
+---
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HNSJ2021&theme=tokyonight&hide_border=true"/>
 
@@ -95,7 +135,7 @@ Tech: React • Node.js • Express • MongoDB
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
+# 🐍 NEURAL CONTRIBUTION SNAKE
 
 <p align="center">
 
@@ -105,7 +145,7 @@ Tech: React • Node.js • Express • MongoDB
 
 ---
 
-# ⚡ LIVE ACTIVITY SCAN
+# 📡 LIVE ACTIVITY MATRIX
 
 <p align="center">
 
@@ -115,54 +155,42 @@ Tech: React • Node.js • Express • MongoDB
 
 ---
 
-# 🧬 CORE SKILLS
+# 🏆 ACHIEVEMENT SYSTEM
 
-```text
-AI/ML        ██████████████░░░ 90%
-Full Stack   ████████████████░ 95%
-Backend API  ██████████████░░░ 88%
-Mobile Dev   █████████████░░░░ 85%
-Cloud        ███████████░░░░░░ 75%
-```
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HNSJ2021&theme=matrix&no-frame=true&row=2&column=4"/>
+
+</p>
 
 ---
 
-# ⚙️ SYSTEM BOOT LOG
+# 🔥 SYSTEM STATUS
 
 ```bash
-[OK] AI Modules Loaded
-[OK] ML Pipelines Ready
-[OK] Backend Systems Online
-[OK] Frontend Engine Active
-[OK] Database Connected
-
-SYSTEM STATUS: OPTIMAL 🚀
+✔ AI Modules: ACTIVE
+✔ ML Engine: RUNNING
+✔ Full Stack Server: ONLINE
+✔ Neural Network: TRAINING
+✔ Innovation Mode: ENABLED
 ```
 
 ---
 
-# 🎯 MISSION OBJECTIVES (2026)
+# 🌐 CONTACT PROTOCOL
 
-- Build scalable AI systems 🌍  
-- Publish research papers 📚  
-- Become AI Solutions Architect 🧠  
-- Launch SaaS products 🚀  
-- Master cloud + DevOps ☁️  
-
----
-
-# 📡 CONTACT PROTOCOL
-
-- Email: hansajaperera2021@gmail.com  
-- LinkedIn: linkedin.com/in/hansaja-perera-7ab071309  
-- GitHub: https://github.com/HNSJ2021  
+```text
+EMAIL    → hansajaperera2021@gmail.com
+PHONE    → +94 76 XXX XXXX
+LINKEDIN → linkedin.com/in/hansaja-perera
+```
 
 ---
+
+# ⚡ FINAL MESSAGE
 
 <div align="center">
 
-# ⚡ “BUILD • TRAIN • DEPLOY • IMPACT” ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:0f0f0f,100:00f5ff"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=TURNING+IDEAS+INTO+INTELLIGENT+SYSTEMS;AI+IS+THE+FUTURE+AND+I+AM+BUILDING+IT;WELCOME+TO+MY+NEURAL+UNIVERSE"/>
 
 </div>
