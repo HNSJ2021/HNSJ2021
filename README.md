@@ -1,172 +1,235 @@
-<h1 align="center">Hi 👋, I'm Hansaja Perera</h1>
-<h3 align="center">AI Engineer | Machine Learning Enthusiast | Full Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Engineer;React+%7C+FastAPI+%7C+Python;Building+Intelligent+Systems;Research+Driven+Developer" />
-</p>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Hansaja Perera
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ML+Developer;Full+Stack+Developer;Research+Driven+Innovator;Building+Intelligent+Systems;React+Native+%7C+FastAPI+%7C+TensorFlow" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
 
 ---
 
 # 💫 About Me
 
-🎓 Computer Science Undergraduate at APIIT / Staffordshire University  
-🤖 Passionate about Artificial Intelligence & Machine Learning  
-📱 Building real-world AI-powered applications  
-🚀 Interested in Full Stack Development & Cloud Systems  
-🔬 Researching AI-Powered Event Management Systems  
-🌱 Currently learning Advanced AI Engineering & MLOps  
-⚡ Love building impactful software solutions
+```yaml
+Name: Hansaja Perera
+Location: Sri Lanka
+Education: BEng Computer Science
+University: Staffordshire University / APIIT
+Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - Full Stack Development
+  - Research & Innovation
+
+Currently Working On:
+  - AI-Powered Event Management System
+  - Medical AI Applications
+  - Intelligent Recommendation Systems
+
+Learning:
+  - MLOps
+  - Cloud Architecture
+  - Advanced Deep Learning
+  - Kubernetes & Docker
+```
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<div align="center">
+
+<a href="https://github.com/HNSJ2021">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-<a href="https://github.com/HNSJ2021" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" />
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ Tech Arsenal
 
-### 👨‍💻 Programming Languages
-<p>
+<div align="center">
+
+## 👨‍💻 Languages
 <img src="https://skillicons.dev/icons?i=python,java,javascript,php,c,cpp" />
-</p>
 
-### 🌐 Frontend Development
-<p>
+## 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-</p>
 
-### ⚙️ Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,flask" />
-</p>
+## ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,laravel" />
 
-### 🧠 AI / ML
-<p>
+## 🤖 AI / ML
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
 
-### ☁️ Databases & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb" />
-</p>
+## ☁️ Database & Cloud
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
 
-### 🛠️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+## 🛠 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HNSJ2021&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNSJ2021&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HNSJ2021&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HNSJ2021&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Hansaja github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HNSJ2021&theme=tokyo-night)](https://github.com/HNSJ2021)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/HNSJ2021/HNSJ2021/output/snake.svg" alt="snake animation" />
-</p>
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎯 AI-Powered Event Management System
-- React Native + FastAPI
-- AI Vendor Recommendation
-- Price Prediction using XGBoost
-- Safety Analysis with LightGBM
-- Multilingual Support
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| 🎯 AI Event Management System | Intelligent event planning platform with AI recommendations | React Native, FastAPI, XGBoost |
+| 🩻 Pneumonia Detection System | Deep Learning chest X-ray analysis | TensorFlow, Flask |
+| 🩺 Breast Cancer Predictor | ML-powered diagnostic assistant | Streamlit, Scikit-learn |
+| 🌿 Plant Disease Detection | CNN-powered plant health system | TensorFlow, Flask |
+| 🧠 CKD Prediction System | AI-based kidney disease prediction | Gradient Boosting, Streamlit |
+
+</div>
 
 ---
 
-## 🩺 Breast Cancer Prediction System
-- Machine Learning + Streamlit
-- Logistic Regression
-- Interactive Visualizations
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HNSJ2021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNSJ2021&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HNSJ2021&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🩻 Chest X-Ray Pneumonia Detection
-- Deep Learning CNN
-- Flask Deployment
-- Medical Image Classification
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HNSJ2021&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
 
 ---
 
-## 🌿 Plant Disease Detection System
-- TensorFlow/Keras CNN
-- Flask Web Application
-- Real-time Plant Health Analysis
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Hansaja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HNSJ2021&theme=tokyo-night)](https://github.com/HNSJ2021)
+
+</div>
 
 ---
 
-# 📚 Currently Learning
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HNSJ2021/HNSJ2021/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🧠 AI Research & Interests
 
 ```python
-Learning = [
-    "Advanced Machine Learning",
-    "Deep Learning",
-    "MLOps",
-    "Cloud Computing",
-    "System Design",
-    "Docker & Kubernetes"
-]
+class HansajaPerera:
+
+    def __init__(self):
+        self.name = "Hansaja Perera"
+        self.role = "AI Engineer"
+        self.language_spoken = ["Python", "JavaScript", "Java"]
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Mobile Development",
+            "Cloud Systems"
+        ]
+
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile!")
+
+me = HansajaPerera()
+me.say_hi()
 ```
 
 ---
 
-# 👀 Profile Views
+# 🎯 2026 Goals
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
+- 🚀 Publish AI research papers
+- 🌍 Build globally impactful AI systems
+- ☁️ Master Cloud & DevOps
+- 🧠 Become an AI Solutions Architect
+- 📱 Launch production-grade SaaS products
 
 ---
 
-# ✨ Quote
+# 🎵 Currently Vibing To
 
-<p align="center">
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31hxxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true"/>
+
+</div>
+
+---
+
+# 👀 Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ✨ Random Dev Quote
+
+<div align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+
+</div>
 
 ---
 
-<h3 align="center">⭐ Turning Ideas Into Intelligent Systems ⭐</h3>
+# 💻 Fun Terminal Style
+
+```bash
+> initializing Hansaja.exe ...
+
+✔ AI Systems Loaded
+✔ Machine Learning Modules Loaded
+✔ Full Stack Skills Loaded
+✔ Research Mode Activated
+
+Welcome to my GitHub Profile 🚀
+```
+
+---
+
+<div align="center">
+
+# ⭐ "Turning Ideas Into Intelligent Systems"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=120&section=footer"/>
+
+</div>
