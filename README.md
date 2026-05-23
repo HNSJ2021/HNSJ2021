@@ -1,100 +1,93 @@
 <div align="center">
 
-<!-- 🌌 HERO NEON HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:0f0f0f,100:00f5ff&text=HANS AJA%20PERERA&fontColor=00f5ff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=AI%20ENGINEER%20%7C%20ML%20ARCHITECT%20%7C%20FULLSTACK%20DEVELOPER&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:0f0f0f,100:00f5ff&text=HANSaja%20PERERA&fontColor=00f5ff&fontSize=50&fontAlignY=40&animation=fadeIn"/>
 
-<!-- 🤖 TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ML+Architect;Full+Stack+Developer;Deep+Learning+Enthusiast;Building+Intelligent+Systems;Future+AI+Solutions+Architect"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Architect;Full+Stack+Developer;Building+Intelligent+Systems;React+Native+%7C+FastAPI+%7C+TensorFlow"/>
 
-<!-- 👁️ PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=VISITORS&color=00f5ff&style=for-the-badge"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=SYSTEM+VISITS&color=00f5ff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌑 ABOUT ME (NEON CORE PROFILE)
+# 🧠 SYSTEM PROFILE
 
-> 🚀 I am an AI Engineer focused on building intelligent, real-world systems that combine Machine Learning, Full Stack Development, and Cloud Technologies.
-
-💡 I design systems that think, learn, and solve real problems.  
-🧠 Passionate about AI automation, prediction systems, and scalable architecture.  
-⚡ Turning data into intelligence and ideas into products.
-
----
-
-# ⚡ AI CORE SPECIALIZATIONS
-
-```text
-• Artificial Intelligence Systems
-• Machine Learning Engineering
-• Deep Learning & Computer Vision
-• Full Stack Web & Mobile Development
-• AI-Powered Recommendation Engines
-• Predictive Analytics Systems
-• Cloud & Distributed Systems
+```bash
+> USER: Hansaja Perera
+> ROLE: AI ENGINEER
+> STATUS: ACTIVE
+> MODE: BUILDING INTELLIGENT SYSTEMS
+> LOCATION: SRI LANKA
 ```
 
 ---
 
-# 🚀 FEATURED AI PROJECTS (REAL WORLD SYSTEMS)
+# ⚡ CORE SYSTEM MODULES
 
-## 🧠 AI Event Management System (Final Year Project)
-Neural-powered event planning platform  
-- AI Recommendation Engine  
-- Vendor Price Prediction (XGBoost / LightGBM)  
-- Smart Chatbot Assistant  
-- Foreign Tourist Optimization  
+```yaml
+AI_ENGINE:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - NLP Systems
 
-Tech: React Native • FastAPI • Python ML
+DEVELOPMENT_STACK:
+  - React / React Native
+  - FastAPI / Node.js
+  - Flask / Laravel
 
----
+DATA_SYSTEMS:
+  - MongoDB
+  - MySQL
+  - Firebase
 
-## 🩺 Medical AI Systems
-- Breast Cancer Prediction (Logistic Regression)
-- Chronic Kidney Disease Detection (Gradient Boosting)
-- Real-time AI medical dashboards
-
----
-
-## 🌿 Computer Vision System
-- CNN-based Plant Disease Detection
-- Image classification & real-time inference
-- OpenCV + TensorFlow pipeline
-
----
-
-## 🛒 MERN Full Stack Platform
-- Authentication system
-- Real-time database integration
-- Product + inventory system
-
----
-
-# 🧠 TECH STACK MATRIX (NEON MODE)
-
-```text
-LANGUAGES     → Python | JavaScript | C# | PHP
-FRONTEND      → React | React Native | HTML | CSS
-BACKEND       → FastAPI | Node.js | Laravel
-AI/ML         → TensorFlow | Scikit-learn | XGBoost
-DATABASE      → MongoDB | MySQL | Firebase
-TOOLS         → Docker | Git | Postman | VS Code
+TOOLS:
+  - Docker
+  - GitHub Actions
+  - Postman
 ```
 
 ---
 
-# 📊 3D GITHUB ANALYTICS (NEON DARK MODE)
+# 🚀 ACTIVE PROJECTS
+
+### 🧠 AI Event Intelligence System
+> Smart event planning engine with recommendation AI  
+Tech: React Native • FastAPI • XGBoost • LightGBM
+
+---
+
+### 🩺 Medical AI Diagnostic System
+> Predictive healthcare intelligence apps  
+Tech: Streamlit • Scikit-learn • TensorFlow
+
+---
+
+### 🌿 Vision AI Plant System
+> Real-time plant disease detection using CNN  
+Tech: TensorFlow • Flask • OpenCV
+
+---
+
+### 🛒 Full Stack Commerce Engine
+> Scalable MERN e-commerce platform  
+Tech: React • Node.js • Express • MongoDB
+
+---
+
+# 📊 SYSTEM STATUS
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HNSJ2021&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HNSJ2021&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNSJ2021&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNSJ2021&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HNSJ2021&theme=tokyonight&hide_border=true"/>
 
@@ -102,79 +95,74 @@ TOOLS         → Docker | Git | Postman | VS Code
 
 ---
 
-# 🧬 3D CONTRIBUTION MATRIX
+# 🐍 CONTRIBUTION MATRIX
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HNSJ2021&theme=react-dark"/>
-</p>
 
----
-
-# 🐍 NEON SNAKE ANIMATION
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/HNSJ2021/HNSJ2021/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-# 🤖 AI ENGINEER CODE IDENTITY
+# ⚡ LIVE ACTIVITY SCAN
 
-```python
-class AIEngineer:
+<p align="center">
 
-    def __init__(self):
-        self.name = "Hansaja Perera"
-        self.role = "AI Engineer"
-        self.focus = "Intelligent Systems"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HNSJ2021&theme=react-dark"/>
 
-    def build(self):
-        return "AI Systems that solve real-world problems"
+</p>
 
-engineer = AIEngineer()
-print(engineer.build())
+---
+
+# 🧬 CORE SKILLS
+
+```text
+AI/ML        ██████████████░░░ 90%
+Full Stack   ████████████████░ 95%
+Backend API  ██████████████░░░ 88%
+Mobile Dev   █████████████░░░░ 85%
+Cloud        ███████████░░░░░░ 75%
 ```
 
 ---
 
-# 🌌 CYBER PULSE TERMINAL
+# ⚙️ SYSTEM BOOT LOG
 
 ```bash
-> booting AI system...
+[OK] AI Modules Loaded
+[OK] ML Pipelines Ready
+[OK] Backend Systems Online
+[OK] Frontend Engine Active
+[OK] Database Connected
 
-✔ Neural Networks Loaded
-✔ Deep Learning Engine Active
-✔ Full Stack Modules Running
-✔ Cloud Sync Enabled
-
-STATUS: READY TO BUILD THE FUTURE 🚀
+SYSTEM STATUS: OPTIMAL 🚀
 ```
 
 ---
 
-# 🎯 2026 VISION
+# 🎯 MISSION OBJECTIVES (2026)
 
-- 🧠 AI Research Publications
-- 🌍 Global AI Products
-- ☁️ Cloud Architecture Mastery
-- 🤖 AI SaaS Platforms
-- 🚀 Become AI Solutions Architect
+- Build scalable AI systems 🌍  
+- Publish research papers 📚  
+- Become AI Solutions Architect 🧠  
+- Launch SaaS products 🚀  
+- Master cloud + DevOps ☁️  
 
 ---
 
-# 🌑 CONTACT (NEON LINKS)
+# 📡 CONTACT PROTOCOL
 
-- 📧 Email: hansajaperera2021@gmail.com  
-- 📱 Phone: +94-7631-56092  
-- 🔗 LinkedIn: https://linkedin.com/in/hansaja-perera-7ab071309  
-- 💻 GitHub: https://github.com/HNSJ2021  
+- Email: hansajaperera2021@gmail.com  
+- LinkedIn: linkedin.com/in/hansaja-perera-7ab071309  
+- GitHub: https://github.com/HNSJ2021  
 
 ---
 
 <div align="center">
 
-# ⚡ “BUILDING THE FUTURE WITH AI” ⚡
+# ⚡ “BUILD • TRAIN • DEPLOY • IMPACT” ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:00f5ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:0f0f0f,100:00f5ff"/>
 
 </div>
