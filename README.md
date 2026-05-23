@@ -1,137 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Hansaja%20Perera&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
+<!-- 🌌 HERO NEON HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:0f0f0f,100:00f5ff&text=HANS AJA%20PERERA&fontColor=00f5ff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=AI%20ENGINEER%20%7C%20ML%20ARCHITECT%20%7C%20FULLSTACK%20DEVELOPER&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Engineer;Research+Driven+Innovator;React+Native+%7C+FastAPI+%7C+TensorFlow"/>
+<!-- 🤖 TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ML+Architect;Full+Stack+Developer;Deep+Learning+Enthusiast;Building+Intelligent+Systems;Future+AI+Solutions+Architect"/>
 
-<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<!-- 👁️ PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=VISITORS&color=00f5ff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🌑 ABOUT ME (NEON CORE PROFILE)
 
-🎓 Computer Science Graduate (Staffordshire University / APIIT Sri Lanka)  
-🤖 AI & Machine Learning Engineer  
-💻 Full Stack Developer (Web + Mobile)  
-📊 Data-Driven Problem Solver  
-🚀 Passionate about building intelligent real-world systems  
+> 🚀 I am an AI Engineer focused on building intelligent, real-world systems that combine Machine Learning, Full Stack Development, and Cloud Technologies.
 
-I specialize in designing and developing **AI-powered applications**, including recommendation systems, predictive models, and scalable web/mobile platforms.
+💡 I design systems that think, learn, and solve real problems.  
+🧠 Passionate about AI automation, prediction systems, and scalable architecture.  
+⚡ Turning data into intelligence and ideas into products.
 
 ---
 
-# ⚡ Focus Areas
+# ⚡ AI CORE SPECIALIZATIONS
 
-- Artificial Intelligence & Machine Learning  
-- Deep Learning & Computer Vision  
-- Full Stack Development (MERN + FastAPI)  
-- Mobile App Development (React Native)  
-- Cloud & Distributed Systems  
-- Data Analytics & Intelligent Systems  
-
----
-
-# 🚀 Projects
-
-### 🎯 AI Event Management System (Final Year Project)
-AI-powered event planning platform for Sri Lanka with:
-- Recommendation system (TF-IDF + ML models)
-- Vendor price prediction (XGBoost / LightGBM)
-- AI chatbot assistant
-- Foreign tourist optimization features  
-Tech: React Native, FastAPI, Python ML
+```text
+• Artificial Intelligence Systems
+• Machine Learning Engineering
+• Deep Learning & Computer Vision
+• Full Stack Web & Mobile Development
+• AI-Powered Recommendation Engines
+• Predictive Analytics Systems
+• Cloud & Distributed Systems
+```
 
 ---
 
-### 🩺 Breast Cancer Prediction System
-Machine learning diagnostic system:
-- Logistic Regression model
-- 30-feature medical input system
-- Real-time prediction UI  
-Tech: Streamlit, Scikit-learn, Plotly
+# 🚀 FEATURED AI PROJECTS (REAL WORLD SYSTEMS)
+
+## 🧠 AI Event Management System (Final Year Project)
+Neural-powered event planning platform  
+- AI Recommendation Engine  
+- Vendor Price Prediction (XGBoost / LightGBM)  
+- Smart Chatbot Assistant  
+- Foreign Tourist Optimization  
+
+Tech: React Native • FastAPI • Python ML
 
 ---
 
-### 🧠 Chronic Kidney Disease Prediction
-- Gradient Boosting classifier
-- SMOTE handling for imbalance
-- Interactive medical dashboard  
-Tech: Python, Streamlit, ML pipelines
+## 🩺 Medical AI Systems
+- Breast Cancer Prediction (Logistic Regression)
+- Chronic Kidney Disease Detection (Gradient Boosting)
+- Real-time AI medical dashboards
 
 ---
 
-### 🌿 Plant Disease Detection System
-- CNN-based image classification
-- Real-time leaf disease detection  
-Tech: TensorFlow, Flask, OpenCV
+## 🌿 Computer Vision System
+- CNN-based Plant Disease Detection
+- Image classification & real-time inference
+- OpenCV + TensorFlow pipeline
 
 ---
 
-### 🛒 E-commerce Platform (MERN Stack)
-- Full-stack clothing store system
-- Authentication & product management
-- Real-time database integration  
-Tech: React, Node.js, Express, MongoDB
+## 🛒 MERN Full Stack Platform
+- Authentication system
+- Real-time database integration
+- Product + inventory system
 
 ---
 
-# 🧠 Technical Skills
+# 🧠 TECH STACK MATRIX (NEON MODE)
 
-Programming:
-Python • JavaScript • C# • PHP
-
-Frontend:
-React • React Native • HTML • CSS • Flutter
-
-Backend:
-FastAPI • Node.js • Laravel • Express
-
-AI / ML:
-TensorFlow • Scikit-learn • XGBoost • LightGBM
-
-Databases:
-MongoDB • MySQL • Firebase
-
-Tools:
-Git • Docker • Postman • Power BI • VS Code
+```text
+LANGUAGES     → Python | JavaScript | C# | PHP
+FRONTEND      → React | React Native | HTML | CSS
+BACKEND       → FastAPI | Node.js | Laravel
+AI/ML         → TensorFlow | Scikit-learn | XGBoost
+DATABASE      → MongoDB | MySQL | Firebase
+TOOLS         → Docker | Git | Postman | VS Code
+```
 
 ---
 
-# 🎯 Soft Skills
-
-- Problem Solving  
-- Critical Thinking  
-- Leadership  
-- Communication  
-- Team Collaboration  
-- Time Management  
-
----
-
-# 📊 GitHub Analytics
+# 📊 3D GITHUB ANALYTICS (NEON DARK MODE)
 
 <p align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HNSJ2021&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNSJ2021&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HNSJ2021&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 Achievements
+# 🧬 3D CONTRIBUTION MATRIX
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HNSJ2021&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HNSJ2021&theme=react-dark"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 NEON SNAKE ANIMATION
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/HNSJ2021/HNSJ2021/output/github-contribution-grid-snake-dark.svg"/>
@@ -139,34 +118,63 @@ Git • Docker • Postman • Power BI • VS Code
 
 ---
 
-# 📈 Contribution Graph
+# 🤖 AI ENGINEER CODE IDENTITY
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HNSJ2021&theme=tokyo-night"/>
-</p>
+```python
+class AIEngineer:
+
+    def __init__(self):
+        self.name = "Hansaja Perera"
+        self.role = "AI Engineer"
+        self.focus = "Intelligent Systems"
+
+    def build(self):
+        return "AI Systems that solve real-world problems"
+
+engineer = AIEngineer()
+print(engineer.build())
+```
 
 ---
 
-# 🎓 Education
+# 🌌 CYBER PULSE TERMINAL
 
-- BSc (Hons) Computer Science — Staffordshire University / APIIT (2022–2026)  
-- Diploma in Computer Application — IBA Campus (2019)  
-- A/L & O/L — Walala A. Ratnayake Central College  
+```bash
+> booting AI system...
+
+✔ Neural Networks Loaded
+✔ Deep Learning Engine Active
+✔ Full Stack Modules Running
+✔ Cloud Sync Enabled
+
+STATUS: READY TO BUILD THE FUTURE 🚀
+```
 
 ---
 
-# 📬 Contact
+# 🎯 2026 VISION
+
+- 🧠 AI Research Publications
+- 🌍 Global AI Products
+- ☁️ Cloud Architecture Mastery
+- 🤖 AI SaaS Platforms
+- 🚀 Become AI Solutions Architect
+
+---
+
+# 🌑 CONTACT (NEON LINKS)
 
 - 📧 Email: hansajaperera2021@gmail.com  
 - 📱 Phone: +94-7631-56092  
-- 🔗 LinkedIn: linkedin.com/in/hansaja-perera-7ab071309  
+- 🔗 LinkedIn: https://linkedin.com/in/hansaja-perera-7ab071309  
+- 💻 GitHub: https://github.com/HNSJ2021  
 
 ---
 
-# 💡 Quote
+<div align="center">
 
-> “Turning Ideas Into Intelligent Systems”
+# ⚡ “BUILDING THE FUTURE WITH AI” ⚡
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:00f5ff"/>
 
-# ⭐ END
+</div>
