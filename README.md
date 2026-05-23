@@ -1,90 +1,121 @@
 <div align="center">
 
-<!-- CYBERPUNK HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,3,4,5&text=◢◤%20HANSAJA%20PERERA%20◢◤&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20ML%20ARCHITECT%20%7C%20SYSTEM%20HACKER&descSize=16&descAlignY=55&fontAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:0f0f0f,100:00f5ff&text=HANSaja%20PERERA&fontColor=00f5ff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=AI%20ENGINEER%20%7C%20ML%20ARCHITECT%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=60"/>
 
-<!-- NEON TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=1000&height=100&lines=⚡+INITIALIZING+NEURAL+NETWORK+SYSTEMS+⚡;AI+%2B+ML+%2B+FULL+STACK;BUILDING+INTELLIGENT+MACHINES;SYSTEM+STATUS:+ONLINE"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=1000&lines=INITIALIZING+AI+ENGINEER+PROFILE...;MACHINE+LEARNING+SYSTEMS+LOADED;FULL+STACK+ARCHITECTURE+ACTIVE;REACT+NATIVE+%7C+FASTAPI+%7C+TENSORFLOW;BUILDING+INTELLIGENT+SYSTEMS;WELCOME+TO+MY+DIGITAL+UNIVERSE"/>
 
-<br/>
-
-<!-- NEON BADGES -->
-<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=MATRIX+ENTRIES&color=00ff41&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/HNSJ2021?label=NETWORK+NODES&style=for-the-badge&color=ff00ff"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=SYSTEM+ACCESS+COUNT&color=00f5ff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧠 SYSTEM BOOT PROFILE
+# 🧠 SYSTEM PROFILE: ABOUT ME
 
 ```bash
-Name: Hansaja Perera
-Role: AI Engineer | ML Architect | Full Stack Developer
-Location: Sri Lanka 🇱🇰
-Status: BUILDING INTELLIGENT SYSTEMS
+> booting profile...
+
+✔ Identity: Hansaja Perera
+✔ Role: AI Engineer / ML Developer / Full Stack Architect
+✔ Location: Sri Lanka
+✔ System Status: ACTIVE
+✔ Focus: Intelligent Systems & Scalable AI Applications
+```
+
+I am a **Computer Science Engineer** focused on building:
+- AI-powered real-world systems 🤖  
+- Scalable full-stack applications 💻  
+- Machine learning solutions for automation 🧠  
+- Intelligent recommendation engines ⚡  
+
+---
+
+# ⚡ CORE SYSTEM MODULES
+
+```python
+class AI_ENGINEER:
+
+    def __init__(self):
+        self.name = "Hansaja Perera"
+        self.system = "Neural Network Based Thinker"
+        self.mode = "BUILD | LEARN | INNOVATE"
+
+        self.skills = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Full Stack Development",
+            "Cloud Systems",
+            "Computer Vision"
+        ]
+
+    def activate(self):
+        return "Building the future with AI 🚀"
 ```
 
 ---
 
-## ⚡ TECH STACK
+# ⚙️ TECH STACK MATRIX
 
-**AI / ML**
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- OpenCV
-
-**FULL STACK**
-- React
-- Node.js
-- FastAPI
-- Laravel
-
-**DATABASE**
-- MongoDB
-- MySQL
-- Firebase
-
-**TOOLS**
-- Git
-- Docker
-- Postman
-- VS Code
+```
+LANGUAGES    → Python | JavaScript | C# | PHP
+FRONTEND     → React | React Native | HTML | CSS
+BACKEND      → FastAPI | Node.js | Express | Laravel
+AI / ML      → TensorFlow | Scikit-learn | XGBoost
+DATABASE     → MongoDB | MySQL | Firebase
+TOOLS        → Docker | Git | Postman | VS Code
+```
 
 ---
 
-## 🚀 PROJECTS
+# 🚀 AI POWERED PROJECTS
 
-### 🤖 AI Event Management System
-- Recommendation system
-- Price prediction (XGBoost)
-- AI chatbot
-- React Native + FastAPI
+### 🧠 AI Event Management System (FLAGSHIP PROJECT)
+```text
+AI-based event planning engine
+- Vendor recommendation system
+- Price prediction (XGBoost / LightGBM)
+- Smart chatbot assistant
+- Foreign user optimization
+```
 
 ---
 
 ### 🩺 Medical AI Systems
-- Breast Cancer Prediction (Logistic Regression)
-- CKD Prediction (Gradient Boosting)
+```text
+Breast Cancer Prediction
+- Logistic Regression ML model
+- 30-feature diagnostic system
+- Real-time prediction UI
+
+CKD Prediction System
+- Gradient Boosting Classifier
+- Medical data preprocessing + SMOTE
+```
 
 ---
 
-### 🌿 Plant Disease Detection
-- CNN image classification
-- Flask deployment
+### 🌿 Computer Vision AI
+```text
+Plant Disease Detection System
+- CNN deep learning model
+- Real-time image classification
+- Flask deployment system
+```
 
 ---
 
-### 🛒 E-commerce Platform
-- MERN stack
+### 🛒 Full Stack Systems
+```text
+E-commerce Platform
+- MERN Stack
 - Authentication system
-- Real-time database
+- Real-time product database
+```
 
 ---
 
-## 📊 GITHUB STATS
+# 📊 GITHUB NEURAL ACTIVITY
 
 <p align="center">
 
@@ -96,15 +127,15 @@ Status: BUILDING INTELLIGENT SYSTEMS
 
 ---
 
-## 🔥 STREAK
-
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HNSJ2021&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🐍 SNAKE ANIMATION
+# 🐍 NEURAL CONTRIBUTION SNAKE
 
 <p align="center">
 
@@ -114,7 +145,7 @@ Status: BUILDING INTELLIGENT SYSTEMS
 
 ---
 
-## 📈 CONTRIBUTION GRAPH
+# 📡 LIVE ACTIVITY MATRIX
 
 <p align="center">
 
@@ -124,7 +155,7 @@ Status: BUILDING INTELLIGENT SYSTEMS
 
 ---
 
-## 🏆 TROPHIES
+# 🏆 ACHIEVEMENT SYSTEM
 
 <p align="center">
 
@@ -134,16 +165,32 @@ Status: BUILDING INTELLIGENT SYSTEMS
 
 ---
 
-## 🌐 CONTACT
+# 🔥 SYSTEM STATUS
 
-- 📧 Email: hansajaperera2021@gmail.com  
-- 📱 Phone: +94 76 XXX XXXX  
-- 🔗 LinkedIn: https://linkedin.com/in/hansaja-perera-7ab071309  
+```bash
+✔ AI Modules: ACTIVE
+✔ ML Engine: RUNNING
+✔ Full Stack Server: ONLINE
+✔ Neural Network: TRAINING
+✔ Innovation Mode: ENABLED
+```
 
 ---
 
+# 🌐 CONTACT PROTOCOL
+
+```text
+EMAIL    → hansajaperera2021@gmail.com
+PHONE    → +94 76 XXX XXXX
+LINKEDIN → linkedin.com/in/hansaja-perera
+```
+
+---
+
+# ⚡ FINAL MESSAGE
+
 <div align="center">
 
-### ⚡ TURNING IDEAS INTO INTELLIGENT SYSTEMS ⚡
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=TURNING+IDEAS+INTO+INTELLIGENT+SYSTEMS;AI+IS+THE+FUTURE+AND+I+AM+BUILDING+IT;WELCOME+TO+MY+NEURAL+UNIVERSE"/>
 
 </div>
