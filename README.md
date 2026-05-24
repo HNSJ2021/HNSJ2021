@@ -1,42 +1,31 @@
 <div align="center">
 
-<!-- CYBERPUNK HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=0,2,3,4,5&text=HANSAJA%20PERERA&fontSize=52&fontColor=00FFEA&animation=twinkling&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20ML%20DEVELOPER%20%7C%20FULL%20STACK&descSize=16&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,100:00ffcc&text=HANSAJA%20PERERA&fontSize=55&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20ML%20ARCHITECT%20%7C%20FULL%20STACK%20DEVELOPER&descSize=16&descAlignY=58"/>
 
-<!-- TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00FFEA&center=true&vCenter=true&width=800&lines=AI+Engineer+from+Sri+Lanka;Machine+Learning+%7C+Deep+Learning+Developer;Full+Stack+Web+%26+Mobile+Developer;Building+Intelligent+AI+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=NEURAL+SYSTEM+ONLINE;AI+%2B+ML+%2B+FULL+STACK+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS;CYBERPUNK+DEVELOPER+MODE+ACTIVE"/>
 
 <br/>
 
-<!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=PROFILE+VIEWS&color=00FFEA&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/HNSJ2021?style=for-the-badge&color=00FFEA"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%2FML%20%2B%20FULLSTACK-00FFEA?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=SYSTEM+ACCESS&color=00ffcc&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/HNSJ2021?style=for-the-badge&color=00ffcc&label=NETWORK"/>
+<img src="https://img.shields.io/github/stars/HNSJ2021?style=for-the-badge&color=00ffcc&label=STARS"/>
 
 </div>
 
 ---
 
-# 👨‍💻 ABOUT ME
+# ABOUT ME
 
 ```python
 class HansajaPerera:
     def __init__(self):
         self.role = "AI Engineer & Full Stack Developer"
         self.country = "Sri Lanka"
-        self.university = "Staffordshire University / APIIT Kandy Campus"
+        self.university = "APIIT Kandy / Staffordshire University UK"
+        self.focus = ["AI", "ML", "Deep Learning", "Full Stack", "Computer Vision"]
 
-        self.skills = [
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Full Stack Development",
-            "MLOps"
-        ]
-
-    def mission(self):
-        return "Build intelligent systems that solve real-world problems"
-```
+    def status(self):
+        return "SYSTEM ONLINE"
 
 ---
 
