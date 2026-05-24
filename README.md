@@ -1,293 +1,216 @@
 <div align="center">
 
-<!-- 3D HOLOGRAPHIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,25:0a0e27,50:1a1f3a,75:2a3f5f,100:00f5ff&text=HANSAJA%20PERERA&fontColor=00f5ff&fontSize=60&animation=twinkling&fontAlignY=35&desc=>>>%20INITIALIZING%20AI%20NEURAL%20CORE%20<<<&descAlignY=55&descSize=20"/>
+<!-- 3D WAVE HEADER WITH GRADIENT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20&text=Hansaja%20Perera&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Architect%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=55&stroke=00F5FF&strokeWidth=2"/>
 
-<!-- TERMINAL TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=28&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=900&height=100&lines=root@ai-engineer:~%24+execute+neural_network.py;>>>+MACHINE+LEARNING+SYSTEMS+ONLINE;>>>+FULL+STACK+ARCHITECTURE+LOADED;>>>+REACT+NATIVE+%7C+FASTAPI+%7C+TENSORFLOW;>>>+BUILDING+INTELLIGENT+SYSTEMS...;>>>+WELCOME+TO+THE+NEURAL+MATRIX" alt="Terminal Animation"/>
+<!-- ANIMATED 3D TYPING EFFECT -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=🚀+Building+Intelligent+Systems;🤖+Machine+Learning+%2B+Full+Stack;⚡+AI+Solutions+for+Real+Problems;💎+React+Native+%7C+FastAPI+%7C+TensorFlow;🧠+Transforming+Data+into+Intelligence"/>
 
 <br/>
 
-<!-- NEON BADGES -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000&color=00f5ff"/>
-<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=SYSTEM+ACCESS&color=00f5ff&style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/github/followers/HNSJ2021?label=NEURAL+LINKS&style=for-the-badge&color=00f5ff&labelColor=000000&logo=github"/>
-<img src="https://img.shields.io/github/stars/HNSJ2021?label=CORE+STARS&style=for-the-badge&color=00f5ff&labelColor=000000&logo=apache-spark&logoColor=00f5ff"/>
+<!-- 3D GLOWING BADGES -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=👁️+Profile+Views&color=00F5FF&style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/github/followers/HNSJ2021?style=for-the-badge&color=00F5FF&labelColor=0a0a0a&logo=github&label=👥+Followers"/>
+<img src="https://img.shields.io/github/stars/HNSJ2021?style=for-the-badge&color=00F5FF&labelColor=0a0a0a&logo=starship&label=⭐+Stars"/>
+</p>
 
 </div>
-
-<br/>
-
-<!-- TERMINAL SYSTEM INFO -->
-```bash
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                        >>> SYSTEM PROFILE LOADED <<<                         ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-┌─[root@ai-engineer]─[~]
-└──╼ $ cat system_info.json
-```
-
-```json
-{
-  "identity": {
-    "name": "Hansaja Perera",
-    "role": "AI Engineer & ML Architect",
-    "location": "Sri Lanka 🇱🇰",
-    "university": "Staffordshire University / APIIT"
-  },
-  "core_systems": {
-    "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "XGBoost"],
-    "full_stack": ["React Native", "FastAPI", "Node.js", "Laravel"],
-    "databases": ["MongoDB", "MySQL", "Firebase"],
-    "deployment": ["Docker", "Git", "Cloud Systems"]
-  },
-  "mission": "Building intelligent systems that solve real-world problems",
-  "status": "ACTIVE | LEARNING | INNOVATING"
-}
-```
-
-<br/>
 
 ---
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚡ NEURAL NETWORK ARCHITECTURE
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
 
-</div>
-
-```python
-class AI_Engineer:
-    def __init__(self):
-        self.name = "Hansaja Perera"
-        self.mode = ">>> INNOVATION MODE: ACTIVE <<<"
-        self.neural_core = {
-            "Machine Learning": ["TensorFlow", "Scikit-learn", "XGBoost"],
-            "Computer Vision": ["OpenCV", "CNN", "Image Processing"],
-            "Full Stack": ["React Native", "FastAPI", "MERN Stack"],
-            "Cloud & DevOps": ["Docker", "Git", "CI/CD"]
-        }
-        
-    def execute(self):
-        while True:
-            self.learn()
-            self.build()
-            self.innovate()
-            return "🚀 TRANSFORMING IDEAS INTO AI REALITY"
+```typescript
+const hansaja = {
+    role: "AI Engineer & Full Stack Developer",
+    location: "Sri Lanka 🇱🇰",
+    university: "Staffordshire University / APIIT",
+    focus: [
+        "Machine Learning",
+        "AI Systems",
+        "Full Stack Development",
+        "Computer Vision"
+    ],
+    currentlyLearning: [
+        "Advanced Deep Learning",
+        "MLOps",
+        "Cloud Architecture"
+    ]
+};
 ```
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Tech Arsenal
+
 <div align="center">
 
-## 🔥 TECHNOLOGY MATRIX
+### 🔥 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,react,nodejs,fastapi,laravel&theme=dark&perline=8" />
 
-<!-- 3D SKILL ICONS -->
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,react,nodejs,fastapi,express,laravel,mongodb,mysql,firebase,docker,git&perline=7&theme=dark" />
+### 💾 Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,firebase,git,vscode,postman,linux&theme=dark&perline=8" />
 
 </div>
 
-<br/>
-
-<!-- GLOWING SKILL BARS -->
-<div align="center">
-
-```text
-AI & Machine Learning    ███████████████████████░   92%
-Full Stack Development   ██████████████████████░░   88%
-Computer Vision          ████████████████████░░░░   80%
-Cloud & DevOps          ███████████████████░░░░░   75%
-Database Systems         █████████████████████░░░   85%
-```
-
-</div>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
+# <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px" height="40px"> Featured Projects
+
 <div align="center">
 
-## 🎯 ACTIVE NEURAL PROJECTS
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧠 AI EVENT MANAGEMENT SYSTEM
-```yaml
-type: FLAGSHIP AI PROJECT
-status: IN PRODUCTION
-tech_stack:
-  - Python + FastAPI
-  - React Native
-  - XGBoost ML Engine
-  - Intelligent Chatbot
-features:
-  - Vendor Recommendation AI
-  - Price Prediction Model
-  - Smart Event Planning
-  - Foreign User Optimization
-```
-
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HNSJ2021&repo=AI-Event-Management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
+<br/>
+<b>🧠 AI Event Management System</b>
+<br/>
+<sub>AI-powered planning with XGBoost price prediction & intelligent chatbot</sub>
 </td>
-<td width="50%" valign="top">
-
-### 🩺 MEDICAL AI DIAGNOSTIC SUITE
-```yaml
-type: HEALTHCARE ML SYSTEM
-status: DEPLOYED
-models:
-  - Breast Cancer Prediction
-  - CKD Detection System
-algorithms:
-  - Logistic Regression
-  - Gradient Boosting
-  - SMOTE Optimization
-accuracy: 94.7%
-```
-
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HNSJ2021&repo=Medical-AI-Suite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
+<br/>
+<b>🩺 Medical AI Suite</b>
+<br/>
+<sub>Breast Cancer & CKD prediction using ML algorithms</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🌿 PLANT DISEASE DETECTOR
-```yaml
-type: COMPUTER VISION AI
-status: ACTIVE
-architecture:
-  - CNN Deep Learning
-  - Real-time Classification
-  - Flask Deployment
-training_data: 50,000+ images
-accuracy: 96.3%
-```
-
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HNSJ2021&repo=Plant-Disease-Detector&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
+<br/>
+<b>🌿 Plant Disease Detector</b>
+<br/>
+<sub>CNN-based computer vision for plant disease classification</sub>
 </td>
-<td width="50%" valign="top">
-
-### 🛒 E-COMMERCE PLATFORM
-```yaml
-type: FULL STACK SYSTEM
-status: PRODUCTION READY
-stack: MERN
-features:
-  - User Authentication
-  - Real-time Inventory
-  - Payment Integration
-  - Admin Dashboard
-```
-
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HNSJ2021&repo=E-Commerce-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
+<br/>
+<b>🛒 E-Commerce Platform</b>
+<br/>
+<sub>Full-featured MERN stack store with authentication</sub>
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
+# <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px" height="35px"> GitHub Analytics
+
 <div align="center">
 
-## 📊 NEURAL ACTIVITY MONITOR
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HNSJ2021&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" />
 
-<!-- HOLOGRAPHIC STATS GRID -->
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HNSJ2021&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&ring_color=00f5ff&fire_color=00f5ff" />
-
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=HNSJ2021&theme=black-ice&hide_border=true&background=0d1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=8b949e" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNSJ2021&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HNSJ2021&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideNums=00F5FF&sideLabels=FFFFFF&dates=FFFFFF" />
 
 </div>
 
 <br/>
 
----
-
 <div align="center">
 
-## 📈 CONTRIBUTION NEURAL MAP
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNSJ2021&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8&hide=html,css" />
 
-<!-- GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HNSJ2021&custom_title=Neural%20Contribution%20Activity&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area_color=00f5ff&area=true&hide_border=true&theme=react-dark" width="100%"/>
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=HNSJ2021&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF" />
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
+# <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="35px" height="35px"> Contribution Graph
+
 <div align="center">
 
-## 🐍 CONTRIBUTION SNAKE ALGORITHM
-
-<!-- SNAKE ANIMATION -->
-<img src="https://raw.githubusercontent.com/HNSJ2021/HNSJ2021/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HNSJ2021&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&custom_title=Contribution+Activity+Graph&height=300"/>
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
+# <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px" height="35px"> Contribution Snake
+
 <div align="center">
 
-## 🏆 ACHIEVEMENT CORE
-
-<!-- 3D TROPHY DISPLAY -->
-<img src="https://github-profile-trophy.vercel.app/?username=HNSJ2021&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HNSJ2021/HNSJ2021/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HNSJ2021/HNSJ2021/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HNSJ2021/HNSJ2021/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
+# <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px" height="35px"> Achievements
+
 <div align="center">
 
-## 🌐 ESTABLISH NEURAL LINK
+<img src="https://github-profile-trophy.vercel.app/?username=HNSJ2021&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage"/>
 
-<!-- NEON CONTACT BUTTONS -->
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+# <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="35px" height="35px"> Connect With Me
+
+<div align="center">
+
 <a href="mailto:hansajaperera2021@gmail.com">
-  <img src="https://img.shields.io/badge/NEURAL_MAIL-00f5ff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00F5FF&labelColor=0a0a0a"/>
 </a>
+
 <a href="https://www.linkedin.com/in/hansaja-perera-7ab071309">
-  <img src="https://img.shields.io/badge/LINKEDIN_MATRIX-00f5ff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00F5FF&labelColor=0a0a0a"/>
 </a>
+
 <a href="https://github.com/HNSJ2021">
-  <img src="https://img.shields.io/badge/GITHUB_CORE-00f5ff?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00F5FF&labelColor=0a0a0a"/>
 </a>
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-<!-- TERMINAL FOOTER -->
-```bash
-┌─[root@ai-engineer]─[~]
-└──╼ $ echo "MISSION STATUS"
-
->>> TRANSFORMING IDEAS INTO INTELLIGENT SOLUTIONS
->>> AI IS NOT THE FUTURE, IT IS THE PRESENT
->>> BUILDING THE NEXT GENERATION OF SMART SYSTEMS
-
-[SYSTEM STATUS: ONLINE] | [NEURAL CORE: ACTIVE] | [INNOVATION MODE: ENABLED]
-```
-
-<br/>
+# <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="35px" height="35px"> Quote
 
 <div align="center">
 
-<!-- HOLOGRAPHIC FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,25:0a0e27,50:1a1f3a,75:2a3f5f,100:00f5ff&animation=twinkling"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Transforming+ideas+into+intelligent+solutions+through+AI.&author=Hansaja+Perera&border=true&border_color=00F5FF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=>>>+NEURAL+SYSTEM+SHUTDOWN+COMPLETE;>>>+STAY+CONNECTED+TO+THE+MATRIX;>>>+BUILDING+THE+AI+FUTURE+🚀"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+<div align="center">
+
+<!-- 3D WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=6,12,20&animation=twinkling"/>
+
+<!-- FINAL ANIMATED MESSAGE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=⚡+Thanks+for+visiting!;🚀+Let's+build+something+amazing+together!;💡+Open+to+collaborations+and+opportunities"/>
 
 </div>
