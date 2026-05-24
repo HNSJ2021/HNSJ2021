@@ -1,47 +1,41 @@
 <div align="center">
 
-<!-- PROFESSIONAL HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,12,20&text=Hansaja%20Perera&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Developer%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=58"/>
+<!-- CYBERPUNK HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=0,2,3,4,5&text=HANSAJA%20PERERA&fontSize=52&fontColor=00FFEA&animation=twinkling&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20ML%20DEVELOPER%20%7C%20FULL%20STACK&descSize=16&descAlignY=58"/>
 
-<!-- CLEAN TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=AI+Engineer+from+Sri+Lanka;Building+Scalable+AI+and+Web+Systems;Machine+Learning+%7C+Deep+Learning+%7C+Full+Stack;React+Native+%7C+FastAPI+%7C+TensorFlow" />
+<!-- TYPING EFFECT -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00FFEA&center=true&vCenter=true&width=800&lines=AI+Engineer+from+Sri+Lanka;Machine+Learning+%7C+Deep+Learning+Developer;Full+Stack+Web+%26+Mobile+Developer;Building+Intelligent+AI+Systems"/>
 
 <br/>
 
 <!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=Profile+Views&color=00F5FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/HNSJ2021?style=for-the-badge&color=00F5FF"/>
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-00F5FF?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=PROFILE+VIEWS&color=00FFEA&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/HNSJ2021?style=for-the-badge&color=00FFEA"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%2FML%20%2B%20FULLSTACK-00FFEA?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 Professional Summary
+# 👨‍💻 ABOUT ME
 
 ```python
 class HansajaPerera:
     def __init__(self):
         self.role = "AI Engineer & Full Stack Developer"
-        self.university = "Staffordshire University, UK (APIIT Kandy Campus)"
         self.country = "Sri Lanka"
-        
-        self.core_skills = [
-            "Artificial Intelligence",
+        self.university = "Staffordshire University / APIIT Kandy Campus"
+
+        self.skills = [
             "Machine Learning",
             "Deep Learning",
+            "Computer Vision",
             "Full Stack Development",
-            "Computer Vision"
-        ]
-        
-        self.current_focus = [
-            "AI-Powered Systems",
-            "MLOps & Deployment",
-            "Scalable Web Applications"
+            "MLOps"
         ]
 
-    def goal(self):
-        return "Build real-world AI systems that create impact"
+    def mission(self):
+        return "Build intelligent systems that solve real-world problems"
 ```
 
 ---
