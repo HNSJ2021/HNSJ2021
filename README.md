@@ -1,196 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:0f0f0f,100:00f5ff&text=HANSaja%20PERERA&fontColor=00f5ff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=AI%20ENGINEER%20%7C%20ML%20ARCHITECT%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=60"/>
+# 👋 HANSAJA PERERA
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=1000&lines=INITIALIZING+AI+ENGINEER+PROFILE...;MACHINE+LEARNING+SYSTEMS+LOADED;FULL+STACK+ARCHITECTURE+ACTIVE;REACT+NATIVE+%7C+FASTAPI+%7C+TENSORFLOW;BUILDING+INTELLIGENT+SYSTEMS;WELCOME+TO+MY+DIGITAL+UNIVERSE"/>
+**AI Engineer | ML Developer | Full Stack Architect**
 
-<img src="https://komarev.com/ghpvc/?username=HNSJ2021&label=SYSTEM+ACCESS+COUNT&color=00f5ff&style=for-the-badge"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=HNSJ2021&label=Profile%20Views&color=00f5ff&style=flat-square)](https://github.com/HNSJ2021)
 
 </div>
 
 ---
 
-# 🧠 SYSTEM PROFILE: ABOUT ME
+## 🚀 About Me
 
-```bash
-> booting profile...
-
-✔ Identity: Hansaja Perera
-✔ Role: AI Engineer / ML Developer / Full Stack Architect
-✔ Location: Sri Lanka
-✔ System Status: ACTIVE
-✔ Focus: Intelligent Systems & Scalable AI Applications
-```
-
-I am a **Computer Science Engineer** focused on building:
-- AI-powered real-world systems 🤖  
-- Scalable full-stack applications 💻  
-- Machine learning solutions for automation 🧠  
-- Intelligent recommendation engines ⚡  
-
----
-
-# ⚡ CORE SYSTEM MODULES
+Computer Science Engineer specializing in **AI-powered systems** and **scalable applications**. Based in Sri Lanka, I build intelligent solutions that solve real-world problems.
 
 ```python
-class AI_ENGINEER:
-
+class Engineer:
     def __init__(self):
         self.name = "Hansaja Perera"
-        self.system = "Neural Network Based Thinker"
-        self.mode = "BUILD | LEARN | INNOVATE"
-
-        self.skills = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Full Stack Development",
-            "Cloud Systems",
-            "Computer Vision"
-        ]
-
-    def activate(self):
-        return "Building the future with AI 🚀"
+        self.role = "AI Engineer"
+        self.focus = ["Machine Learning", "Full Stack", "Computer Vision"]
+        self.status = "Building intelligent systems 🚀"
 ```
 
 ---
 
-# ⚙️ TECH STACK MATRIX
+## 💻 Tech Stack
 
-```
-LANGUAGES    → Python | JavaScript | C# | PHP
-FRONTEND     → React | React Native | HTML | CSS
-BACKEND      → FastAPI | Node.js | Express | Laravel
-AI / ML      → TensorFlow | Scikit-learn | XGBoost
-DATABASE     → MongoDB | MySQL | Firebase
-TOOLS        → Docker | Git | Postman | VS Code
-```
+**Languages:** Python • JavaScript • C# • PHP  
+**Frontend:** React • React Native • HTML/CSS  
+**Backend:** FastAPI • Node.js • Express • Laravel  
+**AI/ML:** TensorFlow • Scikit-learn • XGBoost  
+**Database:** MongoDB • MySQL • Firebase  
+**Tools:** Docker • Git • VS Code  
 
 ---
 
-# 🚀 AI POWERED PROJECTS
+## 🔥 Featured Projects
 
-### 🧠 AI Event Management System (FLAGSHIP PROJECT)
-```text
-AI-based event planning engine
-- Vendor recommendation system
-- Price prediction (XGBoost / LightGBM)
-- Smart chatbot assistant
-- Foreign user optimization
-```
+### 🤖 AI Event Management System
+AI-powered event planning with vendor recommendations, price prediction (XGBoost), and intelligent chatbot assistant.
 
----
+### 🩺 Medical AI Solutions
+- **Breast Cancer Prediction** - ML model with 30-feature diagnostic system
+- **CKD Prediction** - Gradient Boosting with SMOTE balancing
 
-### 🩺 Medical AI Systems
-```text
-Breast Cancer Prediction
-- Logistic Regression ML model
-- 30-feature diagnostic system
-- Real-time prediction UI
-
-CKD Prediction System
-- Gradient Boosting Classifier
-- Medical data preprocessing + SMOTE
-```
+### 🌿 Plant Disease Detection
+CNN-based computer vision system for real-time plant disease classification.
 
 ---
 
-### 🌿 Computer Vision AI
-```text
-Plant Disease Detection System
-- CNN deep learning model
-- Real-time image classification
-- Flask deployment system
-```
-
----
-
-### 🛒 Full Stack Systems
-```text
-E-commerce Platform
-- MERN Stack
-- Authentication system
-- Real-time product database
-```
-
----
-
-# 📊 GITHUB NEURAL ACTIVITY
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HNSJ2021&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNSJ2021&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HNSJ2021&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 NEURAL CONTRIBUTION SNAKE
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/HNSJ2021/HNSJ2021/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 📡 LIVE ACTIVITY MATRIX
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HNSJ2021&theme=react-dark"/>
-
-</p>
-
----
-
-# 🏆 ACHIEVEMENT SYSTEM
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HNSJ2021&theme=matrix&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🔥 SYSTEM STATUS
-
-```bash
-✔ AI Modules: ACTIVE
-✔ ML Engine: RUNNING
-✔ Full Stack Server: ONLINE
-✔ Neural Network: TRAINING
-✔ Innovation Mode: ENABLED
-```
-
----
-
-# 🌐 CONTACT PROTOCOL
-
-```text
-EMAIL    → hansajaperera2021@gmail.com
-PHONE    → +94 76 XXX XXXX
-LINKEDIN → linkedin.com/in/hansaja-perera
-```
-
----
-
-# ⚡ FINAL MESSAGE
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=TURNING+IDEAS+INTO+INTELLIGENT+SYSTEMS;AI+IS+THE+FUTURE+AND+I+AM+BUILDING+IT;WELCOME+TO+MY+NEURAL+UNIVERSE"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=HNSJ2021&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HNSJ2021&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+**Email:** hansajaperera2021@gmail.com  
+**LinkedIn:** [linkedin.com/in/hansaja-perera](https://linkedin.com/in/hansaja-perera)
+
+<div align="center">
+
+*Turning ideas into intelligent systems* 🧠
 
 </div>
