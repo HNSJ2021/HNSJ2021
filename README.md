@@ -57,31 +57,6 @@ class HansajaPerera:
 
 ---
 
-## 🏫 EDUCATION
-
-<table>
-<tr>
-<td width="60%">
-
-🎓 **Staffordshire University, UK**  
-📍 *APIIT Kandy Campus, Sri Lanka*  
-📘 **BSc (Hons) Computer Science**  
-⏳ *In Progress*
-
-</td>
-<td width="40%">
-
-**Focus Areas:**
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 💻 Software Engineering
-- 🧠 Neural Networks
-
-</td>
-</tr>
-</table>
-
----
 
 ## ⚡ TECHNICAL ARSENAL
 
@@ -107,23 +82,7 @@ class HansajaPerera:
 
 </div>
 
----
 
-## 🚀 FEATURED PROJECTS
-
-<div align="center">
-
-| 🔥 Project | 📝 Description | 💻 Tech Stack |
-|-----------|---------------|---------------|
-| 🧠 **AI Event Management System** | ML-powered event planning with intelligent recommendations & predictions | Python, TensorFlow, React, MongoDB |
-| 🩺 **Medical AI Diagnostic Suite** | Breast Cancer & CKD prediction using advanced ML models | Scikit-learn, Flask, React |
-| 🌿 **Plant Disease Detection** | CNN-based real-time image classification system | PyTorch, OpenCV, FastAPI |
-| 🛒 **E-Commerce Platform** | Full-stack shopping application with payment integration | MERN Stack, Stripe API |
-| 📊 **Data Analytics Dashboard** | Interactive visualization platform for business insights | React, D3.js, Node.js |
-
-</div>
-
----
 
 ## 📊 GITHUB ANALYTICS
 
@@ -161,32 +120,6 @@ class HansajaPerera:
 
 ---
 
-## 🎯 MISSION OBJECTIVES
-
-<table>
-<tr>
-<td width="50%">
-
-**🔬 Technical Growth**
-- 🚀 Build production-ready AI systems
-- ☁️ Master Cloud & MLOps (AWS/GCP)
-- 🧪 Experiment with LLMs & GenAI
-- 🔧 Learn Kubernetes & CI/CD
-
-</td>
-<td width="50%">
-
-**🌍 Impact & Community**
-- 📚 Publish AI research papers
-- 🌐 Develop scalable applications
-- 🤝 Contribute to open-source AI
-- 👥 Mentor aspiring developers
-
-</td>
-</tr>
-</table>
-
----
 
 ## 💼 CURRENT FOCUS
 
