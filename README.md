@@ -1,6 +1,5 @@
 
-
-    <div align="center">
+<div align="center">
 
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=HANSAJA%20PERERA&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20|%20ML%20Architect%20|%20Full%20Stack%20Developer&descSize=18&descAlignY=55"/>
